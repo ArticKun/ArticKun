@@ -2,7 +2,7 @@
 ![banner](./assets/banner.jpg)
 ```js
 const artic = {
-    technologies : [ 
+    programming : [ 
       "HTML","CSS","Javascript","SQL","Typescript",
       "React","Next","Node","Sass","Tailwind","Jest", 
       "MySQL","Docker","Git" 
@@ -11,7 +11,7 @@ const artic = {
       "Figma","Illustrator","Photoshop","Premiere",
       "Afeter Effets","Clip Studio"
     ],
-    music  : ["Ableton Live","Fl Studio"],
+    music : ["Ableton Live","Fl Studio"],
     passions : { 
         1: "web",
         2: "music",
