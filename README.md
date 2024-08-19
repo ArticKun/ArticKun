@@ -1,7 +1,7 @@
 ## Hi there , I'm Artic 👋
 ![banner](./assets/banner.jpg)
 ```js
-const artic = {
+const ArticKun = {
     programming : [ 
       "HTML","CSS","Javascript","SQL","Typescript",
       "React","Next","Node","Sass","Tailwind","Jest", 
