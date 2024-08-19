@@ -1,4 +1,4 @@
-## Hi there , I'm Artic 👋
+## Hi there 👋
 ![banner](./assets/banner.jpg)
 ```js
 const ArticKun = {
