@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there , I'm Artic 👋
+![banner](./assets/banner.jpg)
+```js
+const artic = {
+    technologies : [ 
+      "HTML","CSS","Javascript","SQL","Typescript",
+      "React","Next","Node","Sass","Tailwind","Jest", 
+      "MySQL","Docker","Git" 
+    ],
+    design : [
+      "Figma","Illustrator","Photoshop","Premiere",
+      "Afeter Effets","Clip Studio"
+    ],
+    music  : ["Ableton Live","Fl Studio"],
+    passions : { 
+        1: "web",
+        2: "music",
+        3: "graphic design"
+    },
+    experience: "Junior forever"
+};
+```
 
-<!--
-**ArticKun/ArticKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You Can find Me :
+- [instagram](https://www.instagram.com/fabian.patinho/)
+- [linkedin](https://www.linkedin.com/in/fabian-pati%C3%B1o-3a483a258/)
+- [behance](https://www.behance.net/fabianpatio1)
+- [domestika](https://www.domestika.org/es/arcade_89/portfolio)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Repo Stats
+![Artic Stats](https://github-readme-stats.vercel.app/api?username=ArticKun&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) -->
